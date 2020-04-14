@@ -1,0 +1,46 @@
+h1 {
+  color:black;
+  text-align:center;
+  margin:10px;
+  font-size:30px;
+  font-family: arial,sans-serif;
+}
+
+p{
+  color:gray;
+  text-align:left;
+  margin:10px;
+  font-family:cambria,calibri,sans-serif;
+  font-size:10px;
+}
+
+#hello {
+  border: 1px solid black;
+  height:100px;
+  width:300px;
+  background-color: darkgray;
+  margin:10px;
+  padding: 5px;
+  text-align: center;
+  font-family: calibri, cambria, sans-serif;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+table {
+  width: 40%;
+}
+
+th {
+  background-color: lightgray;
+}
+
+table,th,td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+}
